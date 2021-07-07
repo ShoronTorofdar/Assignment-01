@@ -14,7 +14,7 @@ section{display: flex; margin: 50px;}
 padding: 15px 20px; font-weight: 700; border-radius: 15%; 
  color: white; margin: 100px 0 0 0;}
 
-.about-me img{width: 50%; height: 80%;padding-left: 35%;}
+.about-me img{width: 50%; height: 100%;padding-left: 35%;}
 .about-me{ width: 40%; padding-right: 90px; text-align: justify;}
 .background{
   background-image: url(food/images/shapes/01.png); background-repeat: no-repeat;
